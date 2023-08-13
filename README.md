@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/corymullins/PDF_chatbot_2)
 ![GitHub last commit](https://img.shields.io/github/last-commit/corymullins/PDF_chatbot_2)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/corymullins/PDF_chatbot_2/main/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdfchatbot2.streamlit.app/)
 
 A Streamlit-based chatbot that allows users to ask questions and retrieve information from multiple PDF documents using NLP techniques and vector indexing.
 
